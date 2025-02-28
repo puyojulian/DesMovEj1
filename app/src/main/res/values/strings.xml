@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMCCalculator</string>
+    <string name="title">Calculadora IMC</string>
+    <string name="result">Resultado IMC:</string>
+    <string name="height_prefix">Estatura (m):</string>
+    <string name="weight_prefix">Peso (Kg):</string>
+</resources>
